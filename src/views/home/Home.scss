@@ -1,0 +1,13 @@
+.home{
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(-135deg, #c850c0, #4158d0);
+  .title{
+    text-align: center;
+  }
+  .login_box_nav{
+    text-align: center;
+  }
+}
